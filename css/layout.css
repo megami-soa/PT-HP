@@ -17,6 +17,10 @@ _:-ms-lang(x)::-ms-backdrop, body{/*IE11用ハック*/
     overflow-x: hidden;
 }
 
+.logo{
+  width: 20%;
+}
+
 
 @media screen and (max-width:768px) {
 body{
